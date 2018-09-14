@@ -1,5 +1,0 @@
-Turn:9:1:1:False:END
-Turn:7:0:2:False:END
-Turn:9:2:1:False:END
-Turn:7:2:2:False:END
-Turn:9:0:1:True:END
